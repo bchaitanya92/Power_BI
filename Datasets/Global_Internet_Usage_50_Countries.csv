@@ -1,0 +1,1201 @@
+Country,Year,InternetUsersPercent,Region,IncomeGroup,Population,TotalInternetUsers
+India,2000,27.33,Asia,Lower middle income,1075169398,293896903
+India,2001,13.74,Asia,Lower middle income,1043147351,143329645
+India,2002,25.85,Asia,Lower middle income,459796679,118858589
+India,2003,22.89,Asia,Lower middle income,67093178,15357487
+India,2004,20.89,Asia,Lower middle income,1414597784,295570074
+India,2005,33.92,Asia,Lower middle income,642101781,217789786
+India,2006,22.56,Asia,Lower middle income,637246710,143772343
+India,2007,36.83,Asia,Lower middle income,437803046,161246369
+India,2008,4.57,Asia,Lower middle income,348657190,15919845
+India,2009,30.11,Asia,Lower middle income,1222765165,368210227
+India,2010,22.98,Asia,Lower middle income,697533644,160289467
+India,2011,28.55,Asia,Lower middle income,781547472,223141652
+India,2012,31.13,Asia,Lower middle income,1401120043,436110984
+India,2013,25.81,Asia,Lower middle income,457122539,118002974
+India,2014,27.51,Asia,Lower middle income,351052173,96578913
+India,2015,38.59,Asia,Lower middle income,797055338,307613152
+India,2016,28.4,Asia,Lower middle income,501961190,142564960
+India,2017,45.97,Asia,Lower middle income,560138881,257504075
+India,2018,52.62,Asia,Lower middle income,525885198,276707096
+India,2019,42.39,Asia,Lower middle income,1453926383,616313405
+India,2020,49.91,Asia,Lower middle income,481370479,240244088
+India,2021,32.59,Asia,Lower middle income,1125632180,366792806
+India,2022,47.84,Asia,Lower middle income,803269765,384270578
+India,2023,47.85,Asia,Lower middle income,983316963,470488012
+United States,2000,8.63,North America,High income,823991261,71124945
+United States,2001,28.17,North America,High income,794561159,223803305
+United States,2002,6.91,North America,High income,533490862,36856056
+United States,2003,27.17,North America,High income,660380132,179455999
+United States,2004,14.2,North America,High income,1101229088,156343065
+United States,2005,27.83,North America,High income,468236400,130319954
+United States,2006,29.07,North America,High income,507581924,147571640
+United States,2007,21.77,North America,High income,1022807154,222663794
+United States,2008,21.27,North America,High income,509385636,108342110
+United States,2009,38.15,North America,High income,1147090517,437634073
+United States,2010,25.97,North America,High income,1129216361,293252957
+United States,2011,48.81,North America,High income,1358455334,663000716
+United States,2012,30.92,North America,High income,1143501829,353544961
+United States,2013,34.72,North America,High income,867727146,301241921
+United States,2014,38.16,North America,High income,1297145840,495038300
+United States,2015,29.99,North America,High income,770955613,231171535
+United States,2016,42.13,North America,High income,1321472928,556724192
+United States,2017,32.64,North America,High income,800895588,261410653
+United States,2018,45.53,North America,High income,591477602,269302808
+United States,2019,51.73,North America,High income,835490655,432185278
+United States,2020,51.63,North America,High income,116130504,59954629
+United States,2021,43.4,North America,High income,643520879,279319217
+United States,2022,52.33,North America,High income,1012691803,529960584
+United States,2023,46.51,North America,High income,789559809,367235916
+China,2000,7.77,Asia,Upper middle income,167120391,12984483
+China,2001,6.91,Asia,Upper middle income,198568835,13722266
+China,2002,28.29,Asia,Upper middle income,1058224263,299339733
+China,2003,18.84,Asia,Upper middle income,1443047925,271835616
+China,2004,11.08,Asia,Upper middle income,1481048044,164135716
+China,2005,33.6,Asia,Upper middle income,1200233866,403230738
+China,2006,27.08,Asia,Upper middle income,509804226,138049969
+China,2007,7.13,Asia,Upper middle income,649732187,46316069
+China,2008,21.14,Asia,Upper middle income,1150100765,243168056
+China,2009,40.99,Asia,Upper middle income,807429833,330953134
+China,2010,19.29,Asia,Upper middle income,612832396,118228581
+China,2011,35.34,Asia,Upper middle income,407144037,143876742
+China,2012,37.98,Asia,Upper middle income,185351962,70397595
+China,2013,49.43,Asia,Upper middle income,743845527,367717500
+China,2014,51.11,Asia,Upper middle income,149553384,76430795
+China,2015,42.74,Asia,Upper middle income,592385583,253206211
+China,2016,49.26,Asia,Upper middle income,1063784764,524050693
+China,2017,37.5,Asia,Upper middle income,286515885,107449731
+China,2018,60.22,Asia,Upper middle income,990888125,596753038
+China,2019,45.28,Asia,Upper middle income,521272603,236009457
+China,2020,53.75,Asia,Upper middle income,330107678,177437031
+China,2021,52.53,Asia,Upper middle income,1330327701,698813126
+China,2022,52.54,Asia,Upper middle income,405907014,213276976
+China,2023,58.28,Asia,Upper middle income,1157467774,674539760
+Brazil,2000,11.39,South America,Upper middle income,777998005,88627595
+Brazil,2001,20.82,South America,Upper middle income,954719037,198747820
+Brazil,2002,0.8,South America,Upper middle income,1147096102,9195920
+Brazil,2003,16.16,South America,Upper middle income,260768327,42150308
+Brazil,2004,5.44,South America,Upper middle income,449047298,24418419
+Brazil,2005,0.0,South America,Upper middle income,333950539,0
+Brazil,2006,13.78,South America,Upper middle income,846900204,116694876
+Brazil,2007,38.7,South America,Upper middle income,1409878448,545682882
+Brazil,2008,30.95,South America,Upper middle income,1322710198,409443713
+Brazil,2009,29.37,South America,Upper middle income,1120154646,328981395
+Brazil,2010,16.79,South America,Upper middle income,529324737,88876114
+Brazil,2011,20.11,South America,Upper middle income,1214619121,244208626
+Brazil,2012,41.38,South America,Upper middle income,1423328586,588916861
+Brazil,2013,14.79,South America,Upper middle income,473466956,70018373
+Brazil,2014,32.42,South America,Upper middle income,1019669069,330583935
+Brazil,2015,40.86,South America,Upper middle income,589479676,240844351
+Brazil,2016,49.06,South America,Upper middle income,123234718,60460581
+Brazil,2017,56.23,South America,Upper middle income,590888697,332258569
+Brazil,2018,43.64,South America,Upper middle income,193940125,84638442
+Brazil,2019,42.3,South America,Upper middle income,299882835,126860092
+Brazil,2020,57.41,South America,Upper middle income,1096017153,629188808
+Brazil,2021,51.64,South America,Upper middle income,599917254,309774059
+Brazil,2022,40.68,South America,Upper middle income,942966867,383629017
+Brazil,2023,65.03,South America,Upper middle income,1491686615,970027716
+Russia,2000,5.14,Other,Upper middle income,642504009,32995715
+Russia,2001,9.26,Other,Upper middle income,1355357065,125569072
+Russia,2002,13.53,Other,Upper middle income,1028068115,139048573
+Russia,2003,30.0,Other,Upper middle income,508775870,152631444
+Russia,2004,16.86,Other,Upper middle income,922578090,155507937
+Russia,2005,18.77,Other,Upper middle income,1187406361,222828213
+Russia,2006,29.17,Other,Upper middle income,592522847,172839832
+Russia,2007,16.16,Other,Upper middle income,958678263,154900746
+Russia,2008,26.19,Other,Upper middle income,629111953,164789544
+Russia,2009,13.99,Other,Upper middle income,665551833,93105370
+Russia,2010,50.89,Other,Upper middle income,270573435,137693019
+Russia,2011,22.87,Other,Upper middle income,1445779755,330676813
+Russia,2012,39.79,Other,Upper middle income,1235446111,491609476
+Russia,2013,41.19,Other,Upper middle income,1106696869,455828573
+Russia,2014,34.67,Other,Upper middle income,707807637,245389207
+Russia,2015,38.13,Other,Upper middle income,428683900,163442546
+Russia,2016,59.36,Other,Upper middle income,659530317,391489486
+Russia,2017,32.55,Other,Upper middle income,31837283,10362350
+Russia,2018,34.27,Other,Upper middle income,1478290640,506641173
+Russia,2019,53.73,Other,Upper middle income,746933255,401358321
+Russia,2020,29.5,Other,Upper middle income,698897939,206155960
+Russia,2021,50.45,Other,Upper middle income,132137069,66668261
+Russia,2022,49.3,Other,Upper middle income,778511335,383800484
+Russia,2023,55.7,Other,Upper middle income,1280392828,713214363
+Germany,2000,17.3,Europe,High income,1181279104,204338724
+Germany,2001,22.8,Europe,High income,1409269278,321255288
+Germany,2002,13.27,Europe,High income,516645305,68533163
+Germany,2003,40.69,Europe,High income,366126033,148992146
+Germany,2004,0.13,Europe,High income,1154684924,1520938
+Germany,2005,25.11,Europe,High income,1090175238,273755681
+Germany,2006,21.72,Europe,High income,1123491533,243989397
+Germany,2007,35.28,Europe,High income,737567227,260229298
+Germany,2008,20.04,Europe,High income,942009605,188812584
+Germany,2009,44.33,Europe,High income,20434926,9058212
+Germany,2010,25.44,Europe,High income,1436627865,365494283
+Germany,2011,17.69,Europe,High income,311150925,55048371
+Germany,2012,26.56,Europe,High income,229141332,60866503
+Germany,2013,40.93,Europe,High income,96778452,39606972
+Germany,2014,40.06,Europe,High income,1175551808,470880018
+Germany,2015,46.99,Europe,High income,118455764,55660622
+Germany,2016,25.97,Europe,High income,1307992341,339640706
+Germany,2017,31.17,Europe,High income,322468097,100524303
+Germany,2018,58.23,Europe,High income,18249884,10627646
+Germany,2019,38.95,Europe,High income,810780368,315788207
+Germany,2020,39.04,Europe,High income,705763359,275548194
+Germany,2021,42.28,Europe,High income,452494572,191298637
+Germany,2022,55.45,Europe,High income,740787111,410765164
+Germany,2023,55.58,Europe,High income,955798585,531242101
+Nigeria,2000,23.13,Africa,Lower middle income,751644480,173857289
+Nigeria,2001,9.69,Africa,Lower middle income,244441897,23677954
+Nigeria,2002,1.88,Africa,Lower middle income,820983296,15405961
+Nigeria,2003,11.77,Africa,Lower middle income,563731041,66350927
+Nigeria,2004,52.62,Africa,Lower middle income,1333289609,701641107
+Nigeria,2005,8.56,Africa,Lower middle income,776282409,66460331
+Nigeria,2006,3.86,Africa,Lower middle income,172821986,6668070
+Nigeria,2007,31.18,Africa,Lower middle income,1115576826,347871916
+Nigeria,2008,34.43,Africa,Lower middle income,1181452717,406778747
+Nigeria,2009,29.6,Africa,Lower middle income,1070796154,316980498
+Nigeria,2010,33.12,Africa,Lower middle income,438858839,145361092
+Nigeria,2011,29.35,Africa,Lower middle income,613210746,179996075
+Nigeria,2012,43.87,Africa,Lower middle income,775495714,340229579
+Nigeria,2013,43.74,Africa,Lower middle income,997839583,436441983
+Nigeria,2014,30.4,Africa,Lower middle income,1480166483,450009113
+Nigeria,2015,34.68,Africa,Lower middle income,1099278842,381183631
+Nigeria,2016,44.04,Africa,Lower middle income,657052611,289347366
+Nigeria,2017,50.09,Africa,Lower middle income,671143685,336177430
+Nigeria,2018,41.71,Africa,Lower middle income,701291411,292483187
+Nigeria,2019,52.18,Africa,Lower middle income,796384959,415556423
+Nigeria,2020,38.21,Africa,Lower middle income,471609437,180188839
+Nigeria,2021,48.24,Africa,Lower middle income,1043133446,503217711
+Nigeria,2022,40.01,Africa,Lower middle income,439509567,175830830
+Nigeria,2023,41.53,Africa,Lower middle income,749892435,311432158
+Mexico,2000,0.0,North America,Upper middle income,106450886,0
+Mexico,2001,0.0,North America,Upper middle income,104909328,0
+Mexico,2002,15.52,North America,Upper middle income,54254309,8421334
+Mexico,2003,7.22,North America,Upper middle income,1016569992,73410705
+Mexico,2004,23.29,North America,Upper middle income,177730223,41390139
+Mexico,2005,12.25,North America,Upper middle income,1291541343,158169721
+Mexico,2006,27.08,North America,Upper middle income,990190198,268118331
+Mexico,2007,12.29,North America,Upper middle income,46533793,5721298
+Mexico,2008,20.93,North America,Upper middle income,1405678841,294253348
+Mexico,2009,37.16,North America,Upper middle income,1119697085,416036622
+Mexico,2010,27.6,North America,Upper middle income,632614452,174617287
+Mexico,2011,37.39,North America,Upper middle income,980185957,366502956
+Mexico,2012,44.37,North America,Upper middle income,1304782753,578882245
+Mexico,2013,36.44,North America,Upper middle income,1050498930,382780906
+Mexico,2014,37.44,North America,Upper middle income,179383351,67153359
+Mexico,2015,34.32,North America,Upper middle income,497469402,170751233
+Mexico,2016,45.37,North America,Upper middle income,489912436,222273658
+Mexico,2017,34.04,North America,Upper middle income,102521499,34901985
+Mexico,2018,35.23,North America,Upper middle income,347213983,122336001
+Mexico,2019,74.81,North America,Upper middle income,1217217479,910619469
+Mexico,2020,53.96,North America,Upper middle income,824022621,444647835
+Mexico,2021,68.07,North America,Upper middle income,1059079270,720936426
+Mexico,2022,70.25,North America,Upper middle income,844892997,593537382
+Mexico,2023,45.33,North America,Upper middle income,519580367,235537338
+Indonesia,2000,5.89,Other,Lower middle income,1001491570,58983689
+Indonesia,2001,7.92,Other,Lower middle income,337282325,26698711
+Indonesia,2002,20.78,Other,Lower middle income,802046030,166655315
+Indonesia,2003,18.15,Other,Lower middle income,91685798,16642704
+Indonesia,2004,8.29,Other,Lower middle income,96057689,7959965
+Indonesia,2005,14.58,Other,Lower middle income,253010895,36893018
+Indonesia,2006,26.46,Other,Lower middle income,400649828,106022802
+Indonesia,2007,25.53,Other,Lower middle income,1467217875,374624020
+Indonesia,2008,8.56,Other,Lower middle income,1282525111,109845125
+Indonesia,2009,26.81,Other,Lower middle income,604576275,162094871
+Indonesia,2010,22.13,Other,Lower middle income,550331135,121804063
+Indonesia,2011,23.17,Other,Lower middle income,1097550300,254274779
+Indonesia,2012,24.03,Other,Lower middle income,756190153,181714078
+Indonesia,2013,51.27,Other,Lower middle income,816539168,418641171
+Indonesia,2014,27.97,Other,Lower middle income,657066216,183795590
+Indonesia,2015,37.14,Other,Lower middle income,1163608674,432181928
+Indonesia,2016,29.76,Other,Lower middle income,71556104,21295662
+Indonesia,2017,47.84,Other,Lower middle income,833216826,398578609
+Indonesia,2018,47.62,Other,Lower middle income,1209331311,575831973
+Indonesia,2019,61.52,Other,Lower middle income,1000996205,615810658
+Indonesia,2020,46.27,Other,Lower middle income,1392855926,644422669
+Indonesia,2021,52.1,Other,Lower middle income,289975420,151068175
+Indonesia,2022,55.1,Other,Lower middle income,1018424710,561160888
+Indonesia,2023,81.39,Other,Lower middle income,541254233,440526070
+Japan,2000,25.15,Asia,High income,973312907,244776715
+Japan,2001,41.82,Asia,High income,18696285,7817883
+Japan,2002,19.91,Asia,High income,847320659,168713041
+Japan,2003,25.72,Asia,High income,1296223591,333366339
+Japan,2004,20.03,Asia,High income,973422577,194951957
+Japan,2005,11.81,Asia,High income,385487219,45507973
+Japan,2006,21.56,Asia,High income,977897594,210883074
+Japan,2007,30.29,Asia,High income,1279686195,387628834
+Japan,2008,26.38,Asia,High income,525937653,138730042
+Japan,2009,28.14,Asia,High income,1414333814,398047654
+Japan,2010,50.49,Asia,High income,1469360002,741844689
+Japan,2011,53.54,Asia,High income,1333126218,713795571
+Japan,2012,44.35,Asia,High income,732347296,324820575
+Japan,2013,27.28,Asia,High income,75365141,20559355
+Japan,2014,39.69,Asia,High income,713358825,283107072
+Japan,2015,39.58,Asia,High income,923208512,365424357
+Japan,2016,39.68,Asia,High income,1011099000,401173181
+Japan,2017,45.63,Asia,High income,461418070,210528988
+Japan,2018,56.06,Asia,High income,612049017,343103965
+Japan,2019,38.81,Asia,High income,250563764,97247073
+Japan,2020,52.63,Asia,High income,285183245,150088052
+Japan,2021,59.08,Asia,High income,614977542,363307874
+Japan,2022,79.57,Asia,High income,750964458,597576339
+Japan,2023,63.14,Asia,High income,1297086530,818942152
+Pakistan,2000,5.15,Asia,Lower middle income,1398054614,71948971
+Pakistan,2001,18.13,Asia,Lower middle income,1094768971,198529651
+Pakistan,2002,13.41,Asia,Lower middle income,933308143,125113382
+Pakistan,2003,31.7,Asia,Lower middle income,958771686,303939437
+Pakistan,2004,21.62,Asia,Lower middle income,488539383,105615887
+Pakistan,2005,15.56,Asia,Lower middle income,97107221,15110909
+Pakistan,2006,37.7,Asia,Lower middle income,905863898,341540906
+Pakistan,2007,29.24,Asia,Lower middle income,206349460,60331432
+Pakistan,2008,42.76,Asia,Lower middle income,1428548925,610865366
+Pakistan,2009,21.39,Asia,Lower middle income,143288892,30647728
+Pakistan,2010,26.07,Asia,Lower middle income,206456889,53814502
+Pakistan,2011,30.66,Asia,Lower middle income,758619942,232574813
+Pakistan,2012,27.19,Asia,Lower middle income,415392703,112948723
+Pakistan,2013,34.93,Asia,Lower middle income,1105812415,386224925
+Pakistan,2014,44.58,Asia,Lower middle income,914242434,407588493
+Pakistan,2015,33.82,Asia,Lower middle income,366162795,123834030
+Pakistan,2016,40.97,Asia,Lower middle income,902502479,369795388
+Pakistan,2017,47.59,Asia,Lower middle income,379012476,180363949
+Pakistan,2018,55.72,Asia,Lower middle income,545904945,304174254
+Pakistan,2019,28.52,Asia,Lower middle income,703598143,200656798
+Pakistan,2020,26.15,Asia,Lower middle income,1297800862,339347884
+Pakistan,2021,34.03,Asia,Lower middle income,215334503,73281079
+Pakistan,2022,71.77,Asia,Lower middle income,654081896,469439290
+Pakistan,2023,59.85,Asia,Lower middle income,344562493,206229288
+Bangladesh,2000,7.21,Asia,Lower middle income,340426110,24549676
+Bangladesh,2001,0.51,Asia,Lower middle income,594771053,3007270
+Bangladesh,2002,8.39,Asia,Lower middle income,284676955,23896412
+Bangladesh,2003,22.35,Asia,Lower middle income,592501392,132395917
+Bangladesh,2004,20.29,Asia,Lower middle income,1010096738,204902449
+Bangladesh,2005,26.19,Asia,Lower middle income,448792136,117542221
+Bangladesh,2006,28.43,Asia,Lower middle income,502443959,142839776
+Bangladesh,2007,29.84,Asia,Lower middle income,1372815963,409593589
+Bangladesh,2008,44.21,Asia,Lower middle income,466982232,206456024
+Bangladesh,2009,33.26,Asia,Lower middle income,589944151,196191041
+Bangladesh,2010,34.44,Asia,Lower middle income,795365745,273940220
+Bangladesh,2011,30.5,Asia,Lower middle income,1424784771,434573078
+Bangladesh,2012,25.17,Asia,Lower middle income,1184709581,298198508
+Bangladesh,2013,24.88,Asia,Lower middle income,55032200,13694757
+Bangladesh,2014,33.77,Asia,Lower middle income,1226401894,414156994
+Bangladesh,2015,34.52,Asia,Lower middle income,430861631,148745434
+Bangladesh,2016,53.11,Asia,Lower middle income,302239415,160524942
+Bangladesh,2017,37.86,Asia,Lower middle income,1403539962,531439806
+Bangladesh,2018,49.6,Asia,Lower middle income,950635165,471487752
+Bangladesh,2019,47.45,Asia,Lower middle income,54698578,25951992
+Bangladesh,2020,54.6,Asia,Lower middle income,327106327,178604232
+Bangladesh,2021,50.89,Asia,Lower middle income,193547201,98489839
+Bangladesh,2022,49.24,Asia,Lower middle income,1286358221,633357907
+Bangladesh,2023,40.97,Asia,Lower middle income,613457465,251317471
+Vietnam,2000,0.0,Asia,Lower middle income,903683887,0
+Vietnam,2001,25.05,Asia,Lower middle income,329403198,82516872
+Vietnam,2002,8.43,Asia,Lower middle income,1202490852,101368408
+Vietnam,2003,15.65,Asia,Lower middle income,771288653,120727549
+Vietnam,2004,9.74,Asia,Lower middle income,1122089478,109273453
+Vietnam,2005,11.3,Asia,Lower middle income,106912939,12076818
+Vietnam,2006,10.4,Asia,Lower middle income,1035332252,107627450
+Vietnam,2007,16.38,Asia,Lower middle income,1121068017,183656957
+Vietnam,2008,32.76,Asia,Lower middle income,1299398038,425688502
+Vietnam,2009,34.91,Asia,Lower middle income,915294736,319540706
+Vietnam,2010,38.22,Asia,Lower middle income,558053288,213305859
+Vietnam,2011,36.97,Asia,Lower middle income,1267023381,468408922
+Vietnam,2012,37.25,Asia,Lower middle income,24746409,9217890
+Vietnam,2013,58.8,Asia,Lower middle income,657875253,386859775
+Vietnam,2014,33.99,Asia,Lower middle income,204588698,69535758
+Vietnam,2015,46.93,Asia,Lower middle income,91752701,43060403
+Vietnam,2016,29.15,Asia,Lower middle income,36989117,10781574
+Vietnam,2017,48.78,Asia,Lower middle income,1180777971,575999756
+Vietnam,2018,61.26,Asia,Lower middle income,307673439,188485971
+Vietnam,2019,50.38,Asia,Lower middle income,204156044,102852427
+Vietnam,2020,43.14,Asia,Lower middle income,1370411852,591247308
+Vietnam,2021,29.86,Asia,Lower middle income,1295182000,386778298
+Vietnam,2022,46.31,Asia,Lower middle income,1411125823,653557077
+Vietnam,2023,55.08,Asia,Lower middle income,372897170,205398501
+Philippines,2000,31.24,Asia,Lower middle income,557133283,174062770
+Philippines,2001,0.0,Asia,Lower middle income,133004368,0
+Philippines,2002,5.84,Asia,Lower middle income,423560887,24731472
+Philippines,2003,19.34,Asia,Lower middle income,542883153,104981836
+Philippines,2004,11.27,Asia,Lower middle income,1453317050,163745398
+Philippines,2005,28.78,Asia,Lower middle income,660603121,190106545
+Philippines,2006,32.57,Asia,Lower middle income,139768807,45529201
+Philippines,2007,38.41,Asia,Lower middle income,1455065058,558958661
+Philippines,2008,30.87,Asia,Lower middle income,25409211,7844978
+Philippines,2009,34.24,Asia,Lower middle income,1261379042,431904479
+Philippines,2010,29.49,Asia,Lower middle income,641910346,189283254
+Philippines,2011,42.41,Asia,Lower middle income,148883618,63147103
+Philippines,2012,49.32,Asia,Lower middle income,1359815362,670626970
+Philippines,2013,34.39,Asia,Lower middle income,1314326693,452055360
+Philippines,2014,48.41,Asia,Lower middle income,1297487697,628086587
+Philippines,2015,40.84,Asia,Lower middle income,896321254,366085978
+Philippines,2016,39.57,Asia,Lower middle income,712636845,281978563
+Philippines,2017,36.74,Asia,Lower middle income,850130706,312301156
+Philippines,2018,58.18,Asia,Lower middle income,795280815,462699257
+Philippines,2019,49.7,Asia,Lower middle income,833138679,414046905
+Philippines,2020,50.07,Asia,Lower middle income,1496275333,749169497
+Philippines,2021,50.18,Asia,Lower middle income,702545610,352543929
+Philippines,2022,62.91,Asia,Lower middle income,666387986,419204058
+Philippines,2023,56.19,Asia,Lower middle income,100013740,56202412
+UK,2000,5.71,Europe,High income,1126807097,64349802
+UK,2001,1.15,Europe,High income,1098337267,12645746
+UK,2002,7.1,Europe,High income,94358113,6702186
+UK,2003,13.71,Europe,High income,628373392,86169626
+UK,2004,24.73,Europe,High income,732578512,181172895
+UK,2005,22.37,Europe,High income,271868604,60812108
+UK,2006,33.34,Europe,High income,1078205812,359493031
+UK,2007,12.38,Europe,High income,1117911894,138348254
+UK,2008,33.15,Europe,High income,622671666,206422960
+UK,2009,43.88,Europe,High income,944174816,414278827
+UK,2010,25.82,Europe,High income,49598212,12807762
+UK,2011,44.66,Europe,High income,1148812810,513047676
+UK,2012,17.36,Europe,High income,1206843935,209476089
+UK,2013,11.74,Europe,High income,1489757424,174842522
+UK,2014,45.61,Europe,High income,927699538,423144132
+UK,2015,30.97,Europe,High income,387245927,119933551
+UK,2016,57.3,Europe,High income,546650403,313251772
+UK,2017,62.71,Europe,High income,939188076,588924751
+UK,2018,46.04,Europe,High income,204844711,94309506
+UK,2019,41.77,Europe,High income,106489975,44481010
+UK,2020,59.84,Europe,High income,1149235832,687671607
+UK,2021,46.39,Europe,High income,1001410123,464556154
+UK,2022,48.9,Europe,High income,1229606332,601276490
+UK,2023,50.03,Europe,High income,1308536995,654645920
+France,2000,20.26,Europe,High income,949834124,192464225
+France,2001,13.53,Europe,High income,322182387,43604245
+France,2002,23.69,Europe,High income,247828448,58718433
+France,2003,37.22,Europe,High income,425200256,158251602
+France,2004,0.0,Europe,High income,359922618,0
+France,2005,27.92,Europe,High income,1232322903,344080608
+France,2006,34.65,Europe,High income,390617760,135347914
+France,2007,14.36,Europe,High income,513879046,73803636
+France,2008,21.78,Europe,High income,35351931,7699147
+France,2009,18.4,Europe,High income,48398890,8903130
+France,2010,27.6,Europe,High income,1030441956,284366015
+France,2011,21.6,Europe,High income,454866097,98255255
+France,2012,36.05,Europe,High income,458381079,165235764
+France,2013,12.36,Europe,High income,169613699,20971274
+France,2014,50.54,Europe,High income,1144344397,578391072
+France,2015,32.63,Europe,High income,902016436,294308114
+France,2016,60.59,Europe,High income,962746653,583335722
+France,2017,38.39,Europe,High income,813040383,312114386
+France,2018,49.74,Europe,High income,53915863,26816957
+France,2019,57.94,Europe,High income,1066999671,618262746
+France,2020,55.32,Europe,High income,305583180,169054155
+France,2021,51.11,Europe,High income,989905909,505934444
+France,2022,63.3,Europe,High income,525214764,332445440
+France,2023,56.77,Europe,High income,761328266,432235956
+Italy,2000,10.73,Europe,Unknown,473073784,50738100
+Italy,2001,0.0,Europe,Unknown,873065311,0
+Italy,2002,15.91,Europe,Unknown,1312340070,208824609
+Italy,2003,26.53,Europe,Unknown,1330889777,353057911
+Italy,2004,19.31,Europe,Unknown,494267705,95441996
+Italy,2005,29.2,Europe,Unknown,453248674,132362578
+Italy,2006,28.76,Europe,Unknown,1240417961,356765051
+Italy,2007,26.91,Europe,Unknown,147645400,39724479
+Italy,2008,47.88,Europe,Unknown,115229698,55175499
+Italy,2009,32.95,Europe,Unknown,1154957589,380569719
+Italy,2010,25.28,Europe,Unknown,795456556,201054245
+Italy,2011,39.89,Europe,Unknown,126647275,50513707
+Italy,2012,36.68,Europe,Unknown,1061185005,389240696
+Italy,2013,46.43,Europe,Unknown,234867870,109048869
+Italy,2014,31.14,Europe,Unknown,400497001,124723679
+Italy,2015,28.89,Europe,Unknown,1321652542,381870565
+Italy,2016,22.01,Europe,Unknown,957718800,210753899
+Italy,2017,31.55,Europe,Unknown,390100933,123081129
+Italy,2018,44.01,Europe,Unknown,887065733,390356770
+Italy,2019,34.05,Europe,Unknown,793121897,270075051
+Italy,2020,51.97,Europe,Unknown,1197753422,622469766
+Italy,2021,53.53,Europe,Unknown,108943239,58322307
+Italy,2022,62.41,Europe,Unknown,1413064994,881829614
+Italy,2023,64.99,Europe,Unknown,169225901,109975910
+Spain,2000,33.75,Europe,Unknown,672546345,227005081
+Spain,2001,13.06,Europe,Unknown,261807911,34188408
+Spain,2002,9.98,Europe,Unknown,47263829,4718121
+Spain,2003,17.49,Europe,Unknown,235522114,41201367
+Spain,2004,29.72,Europe,Unknown,1140380298,338966976
+Spain,2005,20.95,Europe,Unknown,1407394006,294823093
+Spain,2006,30.93,Europe,Unknown,899146494,278126591
+Spain,2007,30.76,Europe,Unknown,744635018,229019764
+Spain,2008,36.23,Europe,Unknown,244153027,88467037
+Spain,2009,24.83,Europe,Unknown,255538928,63449375
+Spain,2010,30.63,Europe,Unknown,163819274,50180183
+Spain,2011,37.32,Europe,Unknown,221867616,82797779
+Spain,2012,38.47,Europe,Unknown,290874527,111902563
+Spain,2013,39.22,Europe,Unknown,1176458676,461354115
+Spain,2014,38.79,Europe,Unknown,836701627,324529289
+Spain,2015,41.97,Europe,Unknown,1296215474,544025550
+Spain,2016,48.16,Europe,Unknown,719132956,346324461
+Spain,2017,30.92,Europe,Unknown,1182407249,365597329
+Spain,2018,56.99,Europe,Unknown,1420474684,809543923
+Spain,2019,45.93,Europe,Unknown,1300989382,597525982
+Spain,2020,42.8,Europe,Unknown,1222853747,523423051
+Spain,2021,39.93,Europe,Unknown,579048444,231234686
+Spain,2022,62.45,Europe,Unknown,730022400,455928694
+Spain,2023,56.49,Europe,Unknown,191662208,108267433
+Turkey,2000,10.09,Europe,Upper middle income,1478271288,149175421
+Turkey,2001,22.81,Europe,Upper middle income,913800794,208455135
+Turkey,2002,18.68,Europe,Upper middle income,1109113040,207179239
+Turkey,2003,27.47,Europe,Upper middle income,250699203,68874805
+Turkey,2004,18.56,Europe,Upper middle income,1336849484,248163094
+Turkey,2005,17.34,Europe,Upper middle income,93908448,16281073
+Turkey,2006,25.39,Europe,Upper middle income,1135736580,288352515
+Turkey,2007,29.21,Europe,Upper middle income,535933556,156519414
+Turkey,2008,31.4,Europe,Upper middle income,669886238,210338774
+Turkey,2009,35.88,Europe,Upper middle income,573590701,205830511
+Turkey,2010,45.35,Europe,Upper middle income,1402796545,636167138
+Turkey,2011,39.36,Europe,Upper middle income,632225395,248846099
+Turkey,2012,36.04,Europe,Upper middle income,1328584326,478799109
+Turkey,2013,40.52,Europe,Upper middle income,1185857931,480454880
+Turkey,2014,36.51,Europe,Upper middle income,448564257,163756125
+Turkey,2015,48.28,Europe,Upper middle income,1483981206,716538828
+Turkey,2016,37.22,Europe,Upper middle income,392782952,146210160
+Turkey,2017,52.09,Europe,Upper middle income,409528617,213319872
+Turkey,2018,35.58,Europe,Upper middle income,1007003760,358287878
+Turkey,2019,71.67,Europe,Upper middle income,243024650,174182916
+Turkey,2020,51.78,Europe,Upper middle income,1497499215,775403410
+Turkey,2021,60.31,Europe,Upper middle income,1388076139,837082332
+Turkey,2022,58.49,Europe,Upper middle income,52340001,30612511
+Turkey,2023,61.46,Europe,Upper middle income,329946179,202773203
+South Africa,2000,0.0,Africa,Upper middle income,547963696,0
+South Africa,2001,1.21,Africa,Upper middle income,490419306,5930505
+South Africa,2002,29.5,Africa,Upper middle income,818766316,241495892
+South Africa,2003,12.72,Africa,Upper middle income,958883217,122003674
+South Africa,2004,15.12,Africa,Upper middle income,972462343,147056456
+South Africa,2005,18.84,Africa,Upper middle income,1081731918,203789256
+South Africa,2006,18.67,Africa,Upper middle income,87637188,16357900
+South Africa,2007,4.37,Africa,Upper middle income,938166283,40955636
+South Africa,2008,34.74,Africa,Upper middle income,1462988782,508303666
+South Africa,2009,22.01,Africa,Upper middle income,1449037795,318873295
+South Africa,2010,39.1,Africa,Upper middle income,1379210703,539233004
+South Africa,2011,39.0,Africa,Upper middle income,1077572954,420300083
+South Africa,2012,27.02,Africa,Upper middle income,1192885319,322306401
+South Africa,2013,27.42,Africa,Upper middle income,1242391878,340624799
+South Africa,2014,36.61,Africa,Upper middle income,734019991,268690166
+South Africa,2015,41.26,Africa,Upper middle income,313175105,129211861
+South Africa,2016,49.84,Africa,Upper middle income,322567762,160765603
+South Africa,2017,49.31,Africa,Upper middle income,242472255,119566550
+South Africa,2018,53.56,Africa,Upper middle income,721126798,386234390
+South Africa,2019,59.24,Africa,Upper middle income,299434328,177376359
+South Africa,2020,38.71,Africa,Upper middle income,246313418,95340095
+South Africa,2021,58.58,Africa,Upper middle income,391145937,229131163
+South Africa,2022,72.23,Africa,Upper middle income,98398017,71075038
+South Africa,2023,39.23,Africa,Upper middle income,1165851927,457375892
+Egypt,2000,21.73,Africa,Lower middle income,642687045,139647311
+Egypt,2001,12.77,Africa,Lower middle income,202920823,25903624
+Egypt,2002,8.43,Africa,Lower middle income,515283063,43458006
+Egypt,2003,15.45,Africa,Lower middle income,252916279,39065038
+Egypt,2004,21.99,Africa,Lower middle income,1338042774,294240233
+Egypt,2005,24.59,Africa,Lower middle income,629026693,154689120
+Egypt,2006,36.19,Africa,Lower middle income,236396015,85560708
+Egypt,2007,34.88,Africa,Lower middle income,31995683,11160694
+Egypt,2008,7.03,Africa,Lower middle income,883705833,62081553
+Egypt,2009,8.32,Africa,Lower middle income,736359339,61262004
+Egypt,2010,31.42,Africa,Lower middle income,1436315783,451279549
+Egypt,2011,22.51,Africa,Lower middle income,601428936,135405068
+Egypt,2012,19.23,Africa,Lower middle income,854576885,164332083
+Egypt,2013,41.82,Africa,Lower middle income,783524943,327681182
+Egypt,2014,49.32,Africa,Lower middle income,726386692,358231999
+Egypt,2015,60.56,Africa,Lower middle income,671738086,406809404
+Egypt,2016,47.98,Africa,Lower middle income,996767374,478205799
+Egypt,2017,40.66,Africa,Lower middle income,811493431,329972319
+Egypt,2018,33.07,Africa,Lower middle income,1383881899,457687023
+Egypt,2019,49.6,Africa,Lower middle income,1119927856,555513385
+Egypt,2020,46.84,Africa,Lower middle income,1119850850,524566105
+Egypt,2021,64.42,Africa,Lower middle income,796484486,513083752
+Egypt,2022,60.05,Africa,Lower middle income,491881531,295355430
+Egypt,2023,60.26,Africa,Lower middle income,838167364,505071879
+Thailand,2000,20.37,Asia,Upper middle income,1396309785,284372053
+Thailand,2001,16.26,Asia,Upper middle income,755622170,122876738
+Thailand,2002,23.47,Asia,Upper middle income,889362264,208725578
+Thailand,2003,8.55,Asia,Upper middle income,321643618,27493757
+Thailand,2004,6.42,Asia,Upper middle income,1329036118,85323165
+Thailand,2005,8.07,Asia,Upper middle income,118323191,9549760
+Thailand,2006,24.66,Asia,Upper middle income,135585744,33439795
+Thailand,2007,0.0,Asia,Upper middle income,234242843,0
+Thailand,2008,34.61,Asia,Upper middle income,685039128,237079245
+Thailand,2009,23.02,Asia,Upper middle income,677362874,155936340
+Thailand,2010,19.33,Asia,Upper middle income,1065483078,205978613
+Thailand,2011,40.23,Asia,Upper middle income,342778404,137899608
+Thailand,2012,26.62,Asia,Upper middle income,355242973,94557517
+Thailand,2013,18.69,Asia,Upper middle income,405380825,75777560
+Thailand,2014,29.17,Asia,Upper middle income,799993259,233345182
+Thailand,2015,28.09,Asia,Upper middle income,1354491755,380456785
+Thailand,2016,36.84,Asia,Upper middle income,169140094,62308057
+Thailand,2017,55.64,Asia,Upper middle income,419891609,233644979
+Thailand,2018,52.35,Asia,Upper middle income,529992789,277457524
+Thailand,2019,56.75,Asia,Upper middle income,14934733,8474826
+Thailand,2020,60.97,Asia,Upper middle income,1460935370,890701609
+Thailand,2021,60.45,Asia,Upper middle income,1182075830,714566270
+Thailand,2022,54.51,Asia,Upper middle income,494740479,269685843
+Thailand,2023,68.51,Asia,Upper middle income,349881787,239694451
+Argentina,2000,6.28,South America,Upper middle income,270538761,16998188
+Argentina,2001,4.11,South America,Upper middle income,975333337,40085078
+Argentina,2002,13.44,South America,Upper middle income,821503171,110424859
+Argentina,2003,19.77,South America,Upper middle income,1164882691,230302022
+Argentina,2004,15.09,South America,Upper middle income,1253972513,189209114
+Argentina,2005,0.61,South America,Upper middle income,914966011,5594827
+Argentina,2006,24.73,South America,Upper middle income,1350351824,333960202
+Argentina,2007,17.22,South America,Upper middle income,1380331686,237717925
+Argentina,2008,31.96,South America,Upper middle income,65696032,20995045
+Argentina,2009,0.0,South America,Upper middle income,95720975,0
+Argentina,2010,38.49,South America,Upper middle income,1189651114,457841323
+Argentina,2011,23.84,South America,Upper middle income,961951418,229339089
+Argentina,2012,53.03,South America,Upper middle income,744944177,395034627
+Argentina,2013,19.59,South America,Upper middle income,596636946,116903293
+Argentina,2014,35.55,South America,Upper middle income,301047262,107035751
+Argentina,2015,36.78,South America,Upper middle income,1064995919,391733067
+Argentina,2016,57.19,South America,Upper middle income,1279402967,731720470
+Argentina,2017,33.43,South America,Upper middle income,1260066322,421293794
+Argentina,2018,54.91,South America,Upper middle income,426635534,234263498
+Argentina,2019,47.73,South America,Upper middle income,1075904891,513487700
+Argentina,2020,63.06,South America,Upper middle income,499984026,315296376
+Argentina,2021,61.77,South America,Upper middle income,958450117,592064247
+Argentina,2022,63.98,South America,Upper middle income,324664201,207714295
+Argentina,2023,51.47,South America,Upper middle income,756706479,389488612
+Iran,2000,7.43,Asia,Upper middle income,994840220,73870670
+Iran,2001,5.49,Asia,Upper middle income,307992999,16896382
+Iran,2002,0.0,Asia,Upper middle income,1002058562,0
+Iran,2003,23.09,Asia,Upper middle income,454885860,105041650
+Iran,2004,34.88,Asia,Upper middle income,1115123736,388901296
+Iran,2005,0.0,Asia,Upper middle income,245087972,0
+Iran,2006,36.51,Asia,Upper middle income,1327923053,484877547
+Iran,2007,36.71,Asia,Upper middle income,510408264,187395803
+Iran,2008,28.2,Asia,Upper middle income,1277360094,360187562
+Iran,2009,20.64,Asia,Upper middle income,1164435835,240315460
+Iran,2010,33.89,Asia,Upper middle income,1357969591,460226946
+Iran,2011,34.8,Asia,Upper middle income,586132943,203961965
+Iran,2012,30.7,Asia,Upper middle income,638239998,195950486
+Iran,2013,45.36,Asia,Upper middle income,899189297,407892928
+Iran,2014,19.02,Asia,Upper middle income,365123225,69450551
+Iran,2015,53.5,Asia,Upper middle income,849112291,454237959
+Iran,2016,33.0,Asia,Upper middle income,1405947719,463901752
+Iran,2017,36.15,Asia,Upper middle income,1144893752,413926861
+Iran,2018,34.94,Asia,Upper middle income,1183618039,413594950
+Iran,2019,53.31,Asia,Upper middle income,1037852374,553269977
+Iran,2020,48.31,Asia,Upper middle income,1310869233,633342919
+Iran,2021,53.29,Asia,Upper middle income,1017461692,542174701
+Iran,2022,78.56,Asia,Upper middle income,1109758574,871793977
+Iran,2023,69.26,Asia,Upper middle income,950737723,658448809
+Colombia,2000,30.65,South America,Upper middle income,1032470768,316424560
+Colombia,2001,13.39,South America,Upper middle income,986300603,132114272
+Colombia,2002,10.48,South America,Upper middle income,501603595,52589975
+Colombia,2003,8.25,South America,Upper middle income,440701974,36377699
+Colombia,2004,12.53,South America,Upper middle income,1135750920,142336888
+Colombia,2005,19.88,South America,Upper middle income,871588033,173272369
+Colombia,2006,28.73,South America,Upper middle income,1278335825,367263392
+Colombia,2007,29.0,South America,Upper middle income,1203644354,349048426
+Colombia,2008,28.26,South America,Upper middle income,361230954,102082895
+Colombia,2009,19.91,South America,Upper middle income,799679915,159243309
+Colombia,2010,11.73,South America,Upper middle income,971659467,114014466
+Colombia,2011,35.06,South America,Upper middle income,1334365575,467862903
+Colombia,2012,53.68,South America,Upper middle income,656279545,352300402
+Colombia,2013,41.54,South America,Upper middle income,791594780,328863195
+Colombia,2014,28.7,South America,Upper middle income,307151220,88147296
+Colombia,2015,39.24,South America,Upper middle income,1062157116,416778920
+Colombia,2016,38.61,South America,Upper middle income,699357658,270018083
+Colombia,2017,36.25,South America,Upper middle income,76003205,27552265
+Colombia,2018,36.88,South America,Upper middle income,1038943881,383133732
+Colombia,2019,69.18,South America,Upper middle income,352417009,243819482
+Colombia,2020,40.97,South America,Upper middle income,149733738,61344287
+Colombia,2021,63.61,South America,Upper middle income,316387443,201256790
+Colombia,2022,42.73,South America,Upper middle income,922960386,394340045
+Colombia,2023,65.96,South America,Upper middle income,784364732,517341739
+Poland,2000,3.76,Europe,Unknown,509606353,19163751
+Poland,2001,21.71,Europe,Unknown,743889790,161525665
+Poland,2002,13.88,Europe,Unknown,912850529,126672755
+Poland,2003,19.84,Europe,Unknown,1436552762,284960232
+Poland,2004,6.99,Europe,Unknown,292584207,20440781
+Poland,2005,0.0,Europe,Unknown,416059463,0
+Poland,2006,25.17,Europe,Unknown,1407068474,354111576
+Poland,2007,14.09,Europe,Unknown,591112182,83276668
+Poland,2008,14.65,Europe,Unknown,873006030,127920387
+Poland,2009,15.93,Europe,Unknown,454473085,72410388
+Poland,2010,42.37,Europe,Unknown,1476122174,625467398
+Poland,2011,30.49,Europe,Unknown,1488575973,453838115
+Poland,2012,35.89,Europe,Unknown,154807219,55567613
+Poland,2013,28.61,Europe,Unknown,1217437726,348272273
+Poland,2014,16.62,Europe,Unknown,140501373,23351202
+Poland,2015,31.87,Europe,Unknown,15122665,4819767
+Poland,2016,62.25,Europe,Unknown,85831933,53433735
+Poland,2017,50.09,Europe,Unknown,365344988,182984127
+Poland,2018,56.35,Europe,Unknown,480743230,270913341
+Poland,2019,50.84,Europe,Unknown,486239215,247199462
+Poland,2020,47.32,Europe,Unknown,1296392384,613433668
+Poland,2021,60.61,Europe,Unknown,1361559422,825222520
+Poland,2022,47.18,Europe,Unknown,819431457,386588891
+Poland,2023,44.74,Europe,Unknown,149846526,67040776
+Canada,2000,21.49,North America,High income,257631172,55377652
+Canada,2001,12.28,North America,High income,1377720611,169116348
+Canada,2002,8.44,North America,High income,452474626,38188238
+Canada,2003,21.71,North America,High income,1105703144,240080504
+Canada,2004,32.1,North America,High income,778349844,249859932
+Canada,2005,29.39,North America,High income,1055804213,310311222
+Canada,2006,10.43,North America,High income,500075597,52156196
+Canada,2007,36.09,North America,High income,1088348462,392795507
+Canada,2008,17.54,North America,High income,646737241,113413569
+Canada,2009,33.6,North America,High income,1467375430,493111259
+Canada,2010,29.11,North America,High income,646169866,188126806
+Canada,2011,27.1,North America,High income,363123723,98421379
+Canada,2012,44.01,North America,High income,550346779,242186368
+Canada,2013,50.36,North America,High income,606610395,305492868
+Canada,2014,37.11,North America,High income,1438554639,533800140
+Canada,2015,18.04,North America,High income,182688847,32948279
+Canada,2016,40.54,North America,High income,56225102,22794374
+Canada,2017,46.35,North America,High income,844719277,391523387
+Canada,2018,47.8,North America,High income,1066521098,509840153
+Canada,2019,63.15,North America,High income,1317418482,831884774
+Canada,2020,41.52,North America,High income,1092820594,453793528
+Canada,2021,42.67,North America,High income,1036719513,442343714
+Canada,2022,52.95,North America,High income,995738395,527273248
+Canada,2023,69.76,North America,High income,684397059,477431834
+Australia,2000,8.22,Oceania,High income,521238755,42871017
+Australia,2001,11.2,Oceania,High income,1103564751,123638330
+Australia,2002,19.96,Oceania,High income,499541140,99688169
+Australia,2003,15.87,Oceania,High income,374270254,59393162
+Australia,2004,23.04,Oceania,High income,1439700561,331683480
+Australia,2005,17.9,Oceania,High income,667991418,119590084
+Australia,2006,16.21,Oceania,High income,55384863,8976095
+Australia,2007,39.4,Oceania,High income,1112822422,438448578
+Australia,2008,27.6,Oceania,High income,1308851375,361240068
+Australia,2009,28.94,Oceania,High income,271575326,78596916
+Australia,2010,31.48,Oceania,High income,688202297,216616712
+Australia,2011,40.27,Oceania,High income,582807405,234671306
+Australia,2012,33.33,Oceania,High income,661425909,220479823
+Australia,2013,33.28,Oceania,High income,17992630,5987938
+Australia,2014,45.26,Oceania,High income,878108572,397449864
+Australia,2015,38.25,Oceania,High income,165190011,63183565
+Australia,2016,48.49,Oceania,High income,1004342681,487033557
+Australia,2017,30.7,Oceania,High income,27235591,8360345
+Australia,2018,38.97,Oceania,High income,1054198654,410811146
+Australia,2019,58.29,Oceania,High income,1144450326,667074548
+Australia,2020,59.16,Oceania,High income,64247615,38011724
+Australia,2021,33.05,Oceania,High income,303674627,100379185
+Australia,2022,51.94,Oceania,High income,471765876,245058564
+Australia,2023,51.4,Oceania,High income,474657355,243979808
+Malaysia,2000,15.53,Asia,Upper middle income,45446118,7058613
+Malaysia,2001,14.69,Asia,Upper middle income,1478666179,217235055
+Malaysia,2002,6.9,Asia,Upper middle income,351335219,24232430
+Malaysia,2003,9.11,Asia,Upper middle income,749718167,68277361
+Malaysia,2004,24.43,Asia,Upper middle income,349996391,85505524
+Malaysia,2005,26.56,Asia,Upper middle income,219410586,58267983
+Malaysia,2006,29.24,Asia,Upper middle income,1162262555,339837009
+Malaysia,2007,17.35,Asia,Upper middle income,367000577,63675644
+Malaysia,2008,35.19,Asia,Upper middle income,403749909,142082812
+Malaysia,2009,48.66,Asia,Upper middle income,32209420,15674188
+Malaysia,2010,35.04,Asia,Upper middle income,705010261,247041433
+Malaysia,2011,32.04,Asia,Upper middle income,978575043,313563633
+Malaysia,2012,33.42,Asia,Upper middle income,1369403881,457632252
+Malaysia,2013,28.86,Asia,Upper middle income,906758308,261728228
+Malaysia,2014,29.62,Asia,Upper middle income,453142338,134205676
+Malaysia,2015,27.94,Asia,Upper middle income,1343198490,375298196
+Malaysia,2016,43.62,Asia,Upper middle income,597165951,260502238
+Malaysia,2017,58.17,Asia,Upper middle income,746641163,434287525
+Malaysia,2018,45.78,Asia,Upper middle income,73422067,33613023
+Malaysia,2019,38.86,Asia,Upper middle income,1276564248,496078485
+Malaysia,2020,58.49,Asia,Upper middle income,641183669,375017945
+Malaysia,2021,54.89,Asia,Upper middle income,908992959,498936998
+Malaysia,2022,42.78,Asia,Upper middle income,1060862213,453885582
+Malaysia,2023,41.2,Asia,Upper middle income,725324164,298823005
+Netherlands,2000,7.4,Europe,High income,1214039454,89816061
+Netherlands,2001,2.35,Europe,High income,928968379,21848379
+Netherlands,2002,23.23,Europe,High income,50860605,11814261
+Netherlands,2003,9.64,Europe,High income,91177073,8788553
+Netherlands,2004,30.06,Europe,High income,21353253,6418600
+Netherlands,2005,11.03,Europe,High income,983638226,108492084
+Netherlands,2006,18.67,Europe,High income,481931213,89983975
+Netherlands,2007,27.1,Europe,High income,410938529,111369830
+Netherlands,2008,15.51,Europe,High income,1423943246,220915371
+Netherlands,2009,26.47,Europe,High income,172402491,45627722
+Netherlands,2010,29.71,Europe,High income,1134613661,337088163
+Netherlands,2011,53.24,Europe,High income,919186043,489337828
+Netherlands,2012,26.59,Europe,High income,1411934264,375476953
+Netherlands,2013,25.33,Europe,High income,58329234,14776236
+Netherlands,2014,36.98,Europe,High income,1488925277,550571999
+Netherlands,2015,42.76,Europe,High income,1039507076,444487505
+Netherlands,2016,51.61,Europe,High income,441358056,227797993
+Netherlands,2017,21.67,Europe,High income,883730088,191480937
+Netherlands,2018,45.14,Europe,High income,1407512153,635299022
+Netherlands,2019,45.02,Europe,High income,596186654,268380998
+Netherlands,2020,57.21,Europe,High income,106529655,60945436
+Netherlands,2021,67.7,Europe,High income,85322864,57761356
+Netherlands,2022,57.74,Europe,High income,834912724,482060949
+Netherlands,2023,46.98,Europe,High income,997078623,468377686
+Saudi Arabia,2000,3.48,Other,Unknown,137239558,4779838
+Saudi Arabia,2001,26.78,Other,Unknown,175052645,46875657
+Saudi Arabia,2002,17.84,Other,Unknown,1069759582,190871191
+Saudi Arabia,2003,7.7,Other,Unknown,595028473,45792890
+Saudi Arabia,2004,23.61,Other,Unknown,1345673762,317747328
+Saudi Arabia,2005,23.32,Other,Unknown,773620380,180446512
+Saudi Arabia,2006,11.34,Other,Unknown,347907619,39469329
+Saudi Arabia,2007,38.14,Other,Unknown,902230034,344096620
+Saudi Arabia,2008,22.0,Other,Unknown,52444681,11536837
+Saudi Arabia,2009,22.67,Other,Unknown,120235215,27259396
+Saudi Arabia,2010,25.61,Other,Unknown,1023201316,261992865
+Saudi Arabia,2011,38.44,Other,Unknown,814758867,313163747
+Saudi Arabia,2012,16.03,Other,Unknown,1060258798,170005745
+Saudi Arabia,2013,32.76,Other,Unknown,1464507768,479726031
+Saudi Arabia,2014,35.5,Other,Unknown,1486575486,527746516
+Saudi Arabia,2015,44.73,Other,Unknown,190097644,85023473
+Saudi Arabia,2016,50.87,Other,Unknown,956160666,486408015
+Saudi Arabia,2017,40.7,Other,Unknown,853573480,347382870
+Saudi Arabia,2018,29.96,Other,Unknown,807764723,241974071
+Saudi Arabia,2019,53.29,Other,Unknown,320073452,170560408
+Saudi Arabia,2020,38.35,Other,Unknown,1158482757,444224310
+Saudi Arabia,2021,51.16,Other,Unknown,1171611396,599352373
+Saudi Arabia,2022,57.51,Other,Unknown,804952063,462916546
+Saudi Arabia,2023,58.88,Other,Unknown,172568960,101613965
+Iraq,2000,23.22,Asia,Upper middle income,837546307,194501939
+Iraq,2001,19.85,Asia,Upper middle income,565831988,112290836
+Iraq,2002,25.38,Asia,Upper middle income,1032028355,261933430
+Iraq,2003,21.07,Asia,Upper middle income,104345420,21982863
+Iraq,2004,43.01,Asia,Upper middle income,433067662,186273366
+Iraq,2005,25.74,Asia,Upper middle income,131398968,33825682
+Iraq,2006,16.0,Asia,Upper middle income,769430337,123095684
+Iraq,2007,35.26,Asia,Upper middle income,307898989,108570234
+Iraq,2008,24.02,Asia,Upper middle income,674726449,162093530
+Iraq,2009,38.79,Asia,Upper middle income,67680757,26250798
+Iraq,2010,35.63,Asia,Upper middle income,1441001799,513493860
+Iraq,2011,24.46,Asia,Upper middle income,1429941920,349830220
+Iraq,2012,33.19,Asia,Upper middle income,754558736,250447327
+Iraq,2013,41.58,Asia,Upper middle income,166443972,69210910
+Iraq,2014,40.69,Asia,Upper middle income,802885234,326666443
+Iraq,2015,26.98,Asia,Upper middle income,1107088595,298700704
+Iraq,2016,39.25,Asia,Upper middle income,931585985,365671768
+Iraq,2017,49.47,Asia,Upper middle income,739876567,365985274
+Iraq,2018,53.41,Asia,Upper middle income,1078013185,575765393
+Iraq,2019,44.83,Asia,Upper middle income,357849663,160416818
+Iraq,2020,43.86,Asia,Upper middle income,43913984,19261188
+Iraq,2021,55.58,Asia,Upper middle income,226148517,125684174
+Iraq,2022,32.71,Asia,Upper middle income,706944955,231253077
+Iraq,2023,59.12,Asia,Upper middle income,748447365,442508301
+Ukraine,2000,11.5,Europe,Lower middle income,773113129,88870828
+Ukraine,2001,14.93,Europe,Lower middle income,801808628,119710907
+Ukraine,2002,20.64,Europe,Lower middle income,87101694,17977496
+Ukraine,2003,11.76,Europe,Lower middle income,583159291,68571760
+Ukraine,2004,17.26,Europe,Lower middle income,273686040,47226293
+Ukraine,2005,22.46,Europe,Lower middle income,289700729,65055545
+Ukraine,2006,13.63,Europe,Lower middle income,503364539,68617062
+Ukraine,2007,28.81,Europe,Lower middle income,1478577494,425915804
+Ukraine,2008,23.53,Europe,Lower middle income,465121954,109448379
+Ukraine,2009,28.9,Europe,Lower middle income,789102113,228063958
+Ukraine,2010,39.48,Europe,Lower middle income,505718133,199679356
+Ukraine,2011,31.49,Europe,Lower middle income,1383031458,435531336
+Ukraine,2012,34.65,Europe,Lower middle income,306102452,106075398
+Ukraine,2013,46.11,Europe,Lower middle income,885269242,408220897
+Ukraine,2014,25.67,Europe,Lower middle income,825974788,211987820
+Ukraine,2015,40.0,Europe,Lower middle income,285963108,114388590
+Ukraine,2016,50.87,Europe,Lower middle income,1032008486,525028086
+Ukraine,2017,38.89,Europe,Lower middle income,91775025,35690467
+Ukraine,2018,29.87,Europe,Lower middle income,55711161,16643012
+Ukraine,2019,33.47,Europe,Lower middle income,759071772,254063796
+Ukraine,2020,56.6,Europe,Lower middle income,670584213,379566102
+Ukraine,2021,58.3,Europe,Lower middle income,656248854,382620608
+Ukraine,2022,56.29,Europe,Lower middle income,800236960,450483525
+Ukraine,2023,46.75,Europe,Lower middle income,318616131,148965585
+Kenya,2000,2.17,Africa,Lower middle income,1085960539,23596698
+Kenya,2001,4.54,Africa,Lower middle income,1080191699,49052310
+Kenya,2002,19.56,Africa,Lower middle income,1336091342,261395742
+Kenya,2003,21.56,Africa,Lower middle income,266893540,57549405
+Kenya,2004,3.75,Africa,Lower middle income,1002163949,37600611
+Kenya,2005,40.07,Africa,Lower middle income,293153255,117480891
+Kenya,2006,11.0,Africa,Lower middle income,821179488,90294837
+Kenya,2007,27.49,Africa,Lower middle income,955995832,262832459
+Kenya,2008,31.98,Africa,Lower middle income,352894762,112841216
+Kenya,2009,14.45,Africa,Lower middle income,1076333175,155518311
+Kenya,2010,31.65,Africa,Lower middle income,51860118,16415226
+Kenya,2011,48.71,Africa,Lower middle income,414320773,201827078
+Kenya,2012,43.04,Africa,Lower middle income,1385659644,596428538
+Kenya,2013,35.29,Africa,Lower middle income,550991832,194440397
+Kenya,2014,28.2,Africa,Lower middle income,559901747,157897379
+Kenya,2015,55.24,Africa,Lower middle income,564390632,311778605
+Kenya,2016,35.2,Africa,Lower middle income,958629426,337409534
+Kenya,2017,38.01,Africa,Lower middle income,721606761,274304090
+Kenya,2018,32.23,Africa,Lower middle income,973709571,313859550
+Kenya,2019,51.07,Africa,Lower middle income,1088105722,555666472
+Kenya,2020,45.53,Africa,Lower middle income,881098521,401191816
+Kenya,2021,64.43,Africa,Lower middle income,898428974,578865375
+Kenya,2022,57.04,Africa,Lower middle income,1171857978,668436602
+Kenya,2023,46.86,Africa,Lower middle income,1249773600,585616399
+Peru,2000,0.0,South America,Unknown,894313176,0
+Peru,2001,24.44,South America,Unknown,1458531682,356499587
+Peru,2002,3.13,South America,Unknown,725565650,22720188
+Peru,2003,7.77,South America,Unknown,1407061682,109323785
+Peru,2004,7.51,South America,Unknown,603820215,45327556
+Peru,2005,30.55,South America,Unknown,101089965,30882119
+Peru,2006,29.02,South America,Unknown,734592861,213151432
+Peru,2007,13.16,South America,Unknown,1009654145,132838991
+Peru,2008,21.23,South America,Unknown,456388700,96892986
+Peru,2009,30.85,South America,Unknown,593580786,183109315
+Peru,2010,0.0,South America,Unknown,579532151,0
+Peru,2011,38.81,South America,Unknown,519316489,201564294
+Peru,2012,24.86,South America,Unknown,328523034,81655431
+Peru,2013,54.4,South America,Unknown,136369651,74189671
+Peru,2014,42.86,South America,Unknown,365620823,156689245
+Peru,2015,38.99,South America,Unknown,1417283866,552632184
+Peru,2016,42.4,South America,Unknown,1389311286,589060988
+Peru,2017,47.88,South America,Unknown,877899623,420322352
+Peru,2018,58.52,South America,Unknown,155968518,91273437
+Peru,2019,38.6,South America,Unknown,39937774,15417195
+Peru,2020,59.92,South America,Unknown,492974338,295413224
+Peru,2021,51.87,South America,Unknown,1352576843,701629477
+Peru,2022,50.99,South America,Unknown,508625185,259351921
+Peru,2023,47.91,South America,Unknown,588805269,282071809
+Morocco,2000,8.98,Africa,Lower middle income,1109496937,99590042
+Morocco,2001,21.78,Africa,Lower middle income,711150340,154868610
+Morocco,2002,21.6,Africa,Lower middle income,1077179453,232635893
+Morocco,2003,18.01,Africa,Lower middle income,695608544,125284158
+Morocco,2004,10.68,Africa,Lower middle income,35858491,3831261
+Morocco,2005,11.67,Africa,Lower middle income,1017361562,118690368
+Morocco,2006,10.8,Africa,Lower middle income,1128679487,121882776
+Morocco,2007,26.61,Africa,Lower middle income,626173438,166653911
+Morocco,2008,22.33,Africa,Lower middle income,888957324,198542121
+Morocco,2009,19.75,Africa,Lower middle income,540165005,106688928
+Morocco,2010,44.72,Africa,Lower middle income,328789273,147045518
+Morocco,2011,33.13,Africa,Lower middle income,236186241,78245635
+Morocco,2012,14.72,Africa,Lower middle income,1287904951,189642617
+Morocco,2013,44.71,Africa,Lower middle income,103776742,46401714
+Morocco,2014,24.1,Africa,Lower middle income,1449886142,349430119
+Morocco,2015,41.1,Africa,Lower middle income,1215081586,499448968
+Morocco,2016,50.66,Africa,Lower middle income,1160842249,588036558
+Morocco,2017,57.97,Africa,Lower middle income,58793356,34081569
+Morocco,2018,31.56,Africa,Lower middle income,140755835,44425990
+Morocco,2019,32.38,Africa,Lower middle income,1088100657,352320417
+Morocco,2020,47.73,Africa,Lower middle income,1073347204,512317339
+Morocco,2021,59.6,Africa,Lower middle income,1138593978,678570251
+Morocco,2022,62.48,Africa,Lower middle income,461223430,288151587
+Morocco,2023,30.89,Africa,Lower middle income,171897560,53102106
+Chile,2000,10.54,South America,Upper middle income,846377227,89250263
+Chile,2001,15.19,South America,Upper middle income,1225925534,186265713
+Chile,2002,3.49,South America,Upper middle income,1227442483,42812656
+Chile,2003,14.55,South America,Upper middle income,360750060,52490226
+Chile,2004,17.26,South America,Upper middle income,609765755,105255312
+Chile,2005,19.78,South America,Upper middle income,1134864772,224453444
+Chile,2006,34.53,South America,Upper middle income,607321903,209729843
+Chile,2007,20.63,South America,Upper middle income,1492245626,307857192
+Chile,2008,16.69,South America,Upper middle income,1224800608,204412826
+Chile,2009,35.09,South America,Upper middle income,1340911410,470459771
+Chile,2010,31.15,South America,Upper middle income,122299437,38101588
+Chile,2011,49.6,South America,Upper middle income,494496380,245266166
+Chile,2012,18.67,South America,Upper middle income,69883525,13046390
+Chile,2013,35.61,South America,Upper middle income,904724676,322208838
+Chile,2014,51.89,South America,Upper middle income,639142664,331672099
+Chile,2015,51.49,South America,Upper middle income,1271433366,654705081
+Chile,2016,36.18,South America,Upper middle income,1122843112,406208806
+Chile,2017,38.91,South America,Upper middle income,346832427,134964498
+Chile,2018,51.69,South America,Upper middle income,574041163,296737768
+Chile,2019,55.92,South America,Upper middle income,168968285,94487618
+Chile,2020,71.45,South America,Upper middle income,144040630,102921326
+Chile,2021,57.19,South America,Upper middle income,847041412,484428269
+Chile,2022,63.1,South America,Upper middle income,416037652,262499180
+Chile,2023,53.09,South America,Upper middle income,185248210,98347824
+Algeria,2000,1.09,Africa,Lower middle income,691195422,7564687
+Algeria,2001,7.68,Africa,Lower middle income,395331267,30353632
+Algeria,2002,26.56,Africa,Lower middle income,262187735,69647329
+Algeria,2003,27.31,Africa,Lower middle income,1106157287,302144091
+Algeria,2004,27.17,Africa,Lower middle income,1202759170,326791381
+Algeria,2005,10.46,Africa,Lower middle income,737779083,77138634
+Algeria,2006,30.47,Africa,Lower middle income,1082894988,330005368
+Algeria,2007,27.79,Africa,Lower middle income,1117866136,310624452
+Algeria,2008,41.58,Africa,Lower middle income,838915676,348858519
+Algeria,2009,17.38,Africa,Lower middle income,667962293,116107183
+Algeria,2010,18.84,Africa,Lower middle income,171396635,32296854
+Algeria,2011,44.61,Africa,Lower middle income,247978113,110634402
+Algeria,2012,19.45,Africa,Lower middle income,277875246,54039134
+Algeria,2013,63.13,Africa,Lower middle income,413619990,261098762
+Algeria,2014,24.61,Africa,Lower middle income,1496447036,368310345
+Algeria,2015,20.98,Africa,Lower middle income,972548120,204059085
+Algeria,2016,44.43,Africa,Lower middle income,659190892,292846922
+Algeria,2017,51.19,Africa,Lower middle income,1202701993,615664508
+Algeria,2018,27.89,Africa,Lower middle income,306610133,85526295
+Algeria,2019,41.96,Africa,Lower middle income,424703877,178224427
+Algeria,2020,51.62,Africa,Lower middle income,1356224322,700135941
+Algeria,2021,44.32,Africa,Lower middle income,433926816,192324950
+Algeria,2022,60.45,Africa,Lower middle income,1279477990,773447551
+Algeria,2023,56.12,Africa,Lower middle income,946279182,531020492
+Venezuela,2000,0.0,South America,Unknown,1214052401,0
+Venezuela,2001,0.0,South America,Unknown,1322849290,0
+Venezuela,2002,17.14,South America,Unknown,995275405,170593452
+Venezuela,2003,23.79,South America,Unknown,138520099,32959387
+Venezuela,2004,9.91,South America,Unknown,724589125,71835044
+Venezuela,2005,15.8,South America,Unknown,346873710,54795616
+Venezuela,2006,25.14,South America,Unknown,847271071,213003657
+Venezuela,2007,16.42,South America,Unknown,497204939,81634607
+Venezuela,2008,27.08,South America,Unknown,259907170,70384062
+Venezuela,2009,19.91,South America,Unknown,1295678127,258020870
+Venezuela,2010,61.61,South America,Unknown,1267369964,780827879
+Venezuela,2011,17.73,South America,Unknown,367096067,65091270
+Venezuela,2012,37.09,South America,Unknown,40113740,14877446
+Venezuela,2013,25.81,South America,Unknown,482705340,124597002
+Venezuela,2014,17.98,South America,Unknown,359488957,64645457
+Venezuela,2015,36.01,South America,Unknown,1461317368,526184354
+Venezuela,2016,35.65,South America,Unknown,335406337,119586546
+Venezuela,2017,46.5,South America,Unknown,966165016,449233671
+Venezuela,2018,48.4,South America,Unknown,159261506,77078036
+Venezuela,2019,43.35,South America,Unknown,1220988067,529305665
+Venezuela,2020,61.85,South America,Unknown,368129206,227673948
+Venezuela,2021,62.69,South America,Unknown,489006698,306544426
+Venezuela,2022,66.27,South America,Unknown,306730463,203272541
+Venezuela,2023,47.09,South America,Unknown,1347201766,634464408
+Greece,2000,7.55,Europe,Unknown,182814119,13802277
+Greece,2001,28.46,Europe,Unknown,429735855,122298115
+Greece,2002,16.84,Europe,Unknown,1474811409,248288010
+Greece,2003,27.77,Europe,Unknown,1346886685,374040117
+Greece,2004,20.46,Europe,Unknown,1132741308,231722742
+Greece,2005,17.14,Europe,Unknown,463052853,79354720
+Greece,2006,8.65,Europe,Unknown,641206420,55480374
+Greece,2007,24.48,Europe,Unknown,217847933,53333782
+Greece,2008,30.71,Europe,Unknown,113461736,34842134
+Greece,2009,17.46,Europe,Unknown,1291620363,225470876
+Greece,2010,30.82,Europe,Unknown,1143368714,352397204
+Greece,2011,6.7,Europe,Unknown,38859274,2601785
+Greece,2012,30.9,Europe,Unknown,1403634371,433769570
+Greece,2013,27.47,Europe,Unknown,1460167367,401114717
+Greece,2014,37.17,Europe,Unknown,478671943,177934979
+Greece,2015,41.9,Europe,Unknown,178644284,74854230
+Greece,2016,49.31,Europe,Unknown,43184722,21295681
+Greece,2017,47.12,Europe,Unknown,597199946,281373192
+Greece,2018,44.97,Europe,Unknown,1189259018,534862046
+Greece,2019,53.88,Europe,Unknown,45367901,24442559
+Greece,2020,46.73,Europe,Unknown,1430406305,668440864
+Greece,2021,49.45,Europe,Unknown,228167272,112831772
+Greece,2022,41.8,Europe,Unknown,390996377,163437866
+Greece,2023,47.83,Europe,Unknown,1242038753,594008064
+Portugal,2000,3.95,Europe,Unknown,1054476007,41660271
+Portugal,2001,0.66,Europe,Unknown,1266493366,8311135
+Portugal,2002,12.59,Europe,Unknown,1195113350,150452371
+Portugal,2003,8.63,Europe,Unknown,249178703,21494938
+Portugal,2004,22.47,Europe,Unknown,1222068358,274610034
+Portugal,2005,8.53,Europe,Unknown,851013937,72570182
+Portugal,2006,29.02,Europe,Unknown,113064361,32809448
+Portugal,2007,32.21,Europe,Unknown,216621430,69766922
+Portugal,2008,47.94,Europe,Unknown,270524659,129676734
+Portugal,2009,31.42,Europe,Unknown,19955669,6270695
+Portugal,2010,23.79,Europe,Unknown,759519234,180681900
+Portugal,2011,23.19,Europe,Unknown,974873998,226117880
+Portugal,2012,37.23,Europe,Unknown,510575171,190068294
+Portugal,2013,27.25,Europe,Unknown,44842071,12221592
+Portugal,2014,57.47,Europe,Unknown,428531297,246295641
+Portugal,2015,38.69,Europe,Unknown,924987614,357847385
+Portugal,2016,28.29,Europe,Unknown,1171941158,331545248
+Portugal,2017,36.62,Europe,Unknown,893928573,327347319
+Portugal,2018,25.81,Europe,Unknown,432320074,111562360
+Portugal,2019,43.47,Europe,Unknown,271382907,117966682
+Portugal,2020,54.1,Europe,Unknown,377039332,203966211
+Portugal,2021,62.14,Europe,Unknown,1293094378,803479120
+Portugal,2022,49.28,Europe,Unknown,725200270,357389751
+Portugal,2023,44.89,Europe,Unknown,523154314,234853894
+Belgium,2000,4.62,Europe,High income,962108349,44484527
+Belgium,2001,16.13,Europe,High income,1431714795,230924024
+Belgium,2002,4.68,Europe,High income,1355770752,63451870
+Belgium,2003,12.2,Europe,High income,988049925,120527750
+Belgium,2004,25.77,Europe,High income,515737962,132914027
+Belgium,2005,23.26,Europe,High income,514444189,119652835
+Belgium,2006,8.75,Europe,High income,1050495327,91909052
+Belgium,2007,14.75,Europe,High income,130841235,19295578
+Belgium,2008,24.29,Europe,High income,747963425,181653506
+Belgium,2009,16.49,Europe,High income,887406245,146296135
+Belgium,2010,24.0,Europe,High income,1312327132,314901139
+Belgium,2011,35.27,Europe,High income,1111983324,392215394
+Belgium,2012,36.55,Europe,High income,270760983,98961886
+Belgium,2013,38.03,Europe,High income,965720669,367260596
+Belgium,2014,17.88,Europe,High income,1385983441,247788969
+Belgium,2015,36.23,Europe,High income,814596867,295127421
+Belgium,2016,54.89,Europe,High income,231572271,127098818
+Belgium,2017,52.25,Europe,High income,235971750,123305982
+Belgium,2018,69.64,Europe,High income,828210292,576757649
+Belgium,2019,42.45,Europe,High income,952782820,404457414
+Belgium,2020,63.39,Europe,High income,577987326,366390261
+Belgium,2021,47.3,Europe,High income,270321178,127869632
+Belgium,2022,61.08,Europe,High income,1183722136,722990871
+Belgium,2023,54.24,Europe,High income,434565914,235702135
+Sweden,2000,12.56,Europe,High income,528682363,66402232
+Sweden,2001,13.69,Europe,High income,577170068,78988660
+Sweden,2002,18.16,Europe,High income,246340986,44729475
+Sweden,2003,3.37,Europe,High income,597345850,20115947
+Sweden,2004,13.31,Europe,High income,506890641,67452475
+Sweden,2005,16.51,Europe,High income,1223343590,202002094
+Sweden,2006,33.02,Europe,High income,1144347789,377909566
+Sweden,2007,17.7,Europe,High income,1429867616,253121350
+Sweden,2008,37.75,Europe,High income,89242092,33691808
+Sweden,2009,36.05,Europe,High income,75862256,27350377
+Sweden,2010,32.85,Europe,High income,269558680,88554310
+Sweden,2011,18.98,Europe,High income,890550408,169025800
+Sweden,2012,38.57,Europe,High income,162516749,62688254
+Sweden,2013,49.71,Europe,High income,1166140022,579739793
+Sweden,2014,46.32,Europe,High income,641121405,296987452
+Sweden,2015,36.01,Europe,High income,133047017,47908909
+Sweden,2016,31.41,Europe,High income,1013389763,318284749
+Sweden,2017,40.19,Europe,High income,1124505876,451963513
+Sweden,2018,50.16,Europe,High income,782884908,392665956
+Sweden,2019,48.3,Europe,High income,823337627,397702283
+Sweden,2020,40.63,Europe,High income,375024798,152384113
+Sweden,2021,53.18,Europe,High income,157439029,83728658
+Sweden,2022,52.73,Europe,High income,113852044,60033931
+Sweden,2023,74.93,Europe,High income,917796614,687737178
+Norway,2000,19.24,Europe,High income,1371692909,263965890
+Norway,2001,19.44,Europe,High income,993471556,193096011
+Norway,2002,7.82,Europe,High income,657697059,51461046
+Norway,2003,6.29,Europe,High income,1360119276,85494626
+Norway,2004,20.71,Europe,High income,1384450225,286706412
+Norway,2005,20.18,Europe,High income,1387759707,279990551
+Norway,2006,34.27,Europe,High income,995944250,341292700
+Norway,2007,45.64,Europe,High income,173636181,79245224
+Norway,2008,38.42,Europe,High income,134754452,51774748
+Norway,2009,33.3,Europe,High income,1058258425,352423782
+Norway,2010,18.52,Europe,High income,1217448727,225482125
+Norway,2011,32.22,Europe,High income,932125783,300289456
+Norway,2012,29.22,Europe,High income,1167337888,341091289
+Norway,2013,20.69,Europe,High income,874182012,180833209
+Norway,2014,36.78,Europe,High income,398397799,146546267
+Norway,2015,60.07,Europe,High income,373336552,224250235
+Norway,2016,40.05,Europe,High income,434136436,173861620
+Norway,2017,45.56,Europe,High income,1048934287,477867166
+Norway,2018,47.75,Europe,High income,1022216565,488116595
+Norway,2019,37.15,Europe,High income,291882597,108425937
+Norway,2020,48.18,Europe,High income,433140907,208680737
+Norway,2021,55.6,Europe,High income,1027383452,571217495
+Norway,2022,52.24,Europe,High income,526344970,274987693
+Norway,2023,55.06,Europe,High income,795364125,437941729
+Denmark,2000,7.04,Europe,High income,1112408433,78267673
+Denmark,2001,8.13,Europe,High income,839253553,68241576
+Denmark,2002,11.62,Europe,High income,357478088,41525319
+Denmark,2003,19.91,Europe,High income,1209887486,240884211
+Denmark,2004,5.82,Europe,High income,780749686,45466727
+Denmark,2005,17.35,Europe,High income,1013654392,175909247
+Denmark,2006,27.0,Europe,High income,270384786,73012312
+Denmark,2007,18.61,Europe,High income,226703108,42191074
+Denmark,2008,32.16,Europe,High income,1391354794,447464553
+Denmark,2009,17.79,Europe,High income,1217844261,216623276
+Denmark,2010,38.12,Europe,High income,474449114,180869418
+Denmark,2011,36.15,Europe,High income,18771736,6785534
+Denmark,2012,43.77,Europe,High income,1131562496,495280660
+Denmark,2013,32.87,Europe,High income,1474998783,484785429
+Denmark,2014,39.47,Europe,High income,1026900275,405335193
+Denmark,2015,31.53,Europe,High income,512397311,161546064
+Denmark,2016,49.42,Europe,High income,1426215394,704790402
+Denmark,2017,45.48,Europe,High income,1245907500,566635109
+Denmark,2018,40.77,Europe,High income,1076626306,438985174
+Denmark,2019,56.52,Europe,High income,1054513467,596011268
+Denmark,2020,46.99,Europe,High income,1398219660,657090553
+Denmark,2021,61.54,Europe,High income,1021684321,628795493
+Denmark,2022,46.64,Europe,High income,498623397,232549921
+Denmark,2023,32.16,Europe,High income,146026012,46960080
+Switzerland,2000,19.56,Europe,High income,299126844,58508236
+Switzerland,2001,31.54,Europe,High income,470747615,148495229
+Switzerland,2002,11.48,Europe,High income,116860679,13410704
+Switzerland,2003,31.93,Europe,High income,318914047,101831162
+Switzerland,2004,22.48,Europe,High income,1279222918,287559992
+Switzerland,2005,2.01,Europe,High income,159029143,3202705
+Switzerland,2006,17.26,Europe,High income,1161720223,200554103
+Switzerland,2007,15.63,Europe,High income,978499493,152921191
+Switzerland,2008,2.11,Europe,High income,862695854,18179486
+Switzerland,2009,34.23,Europe,High income,982071739,336192269
+Switzerland,2010,29.94,Europe,High income,43902766,13143521
+Switzerland,2011,37.57,Europe,High income,955609545,359032901
+Switzerland,2012,26.6,Europe,High income,308899921,82155870
+Switzerland,2013,21.2,Europe,High income,1312537016,278256898
+Switzerland,2014,40.17,Europe,High income,733305746,294578146
+Switzerland,2015,32.94,Europe,High income,1113135643,366618618
+Switzerland,2016,48.18,Europe,High income,1135024073,546875653
+Switzerland,2017,33.37,Europe,High income,1343386051,448257294
+Switzerland,2018,36.17,Europe,High income,285963266,103434047
+Switzerland,2019,41.35,Europe,High income,487315988,201489323
+Switzerland,2020,49.41,Europe,High income,878361806,434008201
+Switzerland,2021,48.96,Europe,High income,1468839064,719108336
+Switzerland,2022,44.79,Europe,High income,491302272,220065824
+Switzerland,2023,44.01,Europe,High income,551386699,242677489
+South Korea,2000,15.62,Asia,High income,1084566015,169406297
+South Korea,2001,6.99,Asia,High income,1090468453,76249766
+South Korea,2002,17.55,Asia,High income,98590231,17307355
+South Korea,2003,29.59,Asia,High income,513358858,151895788
+South Korea,2004,31.78,Asia,High income,1133771720,360333631
+South Korea,2005,30.85,Asia,High income,1398888600,431487872
+South Korea,2006,22.98,Asia,High income,528036461,121360243
+South Korea,2007,11.91,Asia,High income,537786387,64056374
+South Korea,2008,24.19,Asia,High income,203914889,49329023
+South Korea,2009,29.66,Asia,High income,44479006,13193786
+South Korea,2010,44.08,Asia,High income,342927181,151154581
+South Korea,2011,31.05,Asia,High income,642562388,199495259
+South Korea,2012,40.96,Asia,High income,401566441,164475831
+South Korea,2013,48.63,Asia,High income,1333628631,648522756
+South Korea,2014,38.02,Asia,High income,438076757,166577831
+South Korea,2015,48.43,Asia,High income,796413729,385667674
+South Korea,2016,45.74,Asia,High income,929383342,425081528
+South Korea,2017,41.5,Asia,High income,849004311,352299493
+South Korea,2018,46.59,Asia,High income,846376967,394295484
+South Korea,2019,56.27,Asia,High income,938724575,528248536
+South Korea,2020,55.82,Asia,High income,1157490558,646057263
+South Korea,2021,43.91,Asia,High income,104252544,45772995
+South Korea,2022,55.76,Asia,High income,95424646,53211151
+South Korea,2023,53.97,Asia,High income,1310930181,707547447
+Singapore,2000,0.0,Asia,High income,492668699,0
+Singapore,2001,32.71,Asia,High income,1232915552,403248761
+Singapore,2002,22.17,Asia,High income,818064963,181402941
+Singapore,2003,5.86,Asia,High income,738492018,43272765
+Singapore,2004,8.17,Asia,High income,1465836568,119787063
+Singapore,2005,36.94,Asia,High income,435321978,160802077
+Singapore,2006,40.28,Asia,High income,1266174026,509989705
+Singapore,2007,31.5,Asia,High income,1397249783,440111588
+Singapore,2008,26.41,Asia,High income,598416471,158062453
+Singapore,2009,37.38,Asia,High income,418890491,156592374
+Singapore,2010,28.39,Asia,High income,684879745,194458642
+Singapore,2011,25.84,Asia,High income,1368019075,353475227
+Singapore,2012,34.34,Asia,High income,1499359284,514844392
+Singapore,2013,42.94,Asia,High income,221941506,95297984
+Singapore,2014,46.94,Asia,High income,1477049307,693277912
+Singapore,2015,54.92,Asia,High income,150458498,82635189
+Singapore,2016,28.65,Asia,High income,1407601551,403324798
+Singapore,2017,50.01,Asia,High income,66355661,33184469
+Singapore,2018,35.18,Asia,High income,1289391300,453621870
+Singapore,2019,45.04,Asia,High income,747838187,336794513
+Singapore,2020,60.77,Asia,High income,178787571,108649752
+Singapore,2021,39.46,Asia,High income,163019264,64320108
+Singapore,2022,53.84,Asia,High income,1235161904,665037136
+Singapore,2023,71.23,Asia,High income,922590213,657133756
+New Zealand,2000,0.0,Oceania,Unknown,390253164,0
+New Zealand,2001,9.73,Oceania,Unknown,95373984,9277263
+New Zealand,2002,26.2,Oceania,Unknown,469947034,123146647
+New Zealand,2003,15.27,Oceania,Unknown,303152260,46303501
+New Zealand,2004,25.84,Oceania,Unknown,1288367608,332978467
+New Zealand,2005,27.73,Oceania,Unknown,80967442,22455181
+New Zealand,2006,28.26,Oceania,Unknown,1125455294,318086518
+New Zealand,2007,15.22,Oceania,Unknown,502386461,76443219
+New Zealand,2008,25.56,Oceania,Unknown,924411141,236245583
+New Zealand,2009,23.43,Oceania,Unknown,776259162,181905312
+New Zealand,2010,31.67,Oceania,Unknown,1450892634,459539316
+New Zealand,2011,33.01,Oceania,Unknown,277676169,91671384
+New Zealand,2012,39.22,Oceania,Unknown,461192882,180885653
+New Zealand,2013,31.63,Oceania,Unknown,29917451,9463456
+New Zealand,2014,37.07,Oceania,Unknown,570776183,211607935
+New Zealand,2015,33.0,Oceania,Unknown,560188427,184841501
+New Zealand,2016,56.82,Oceania,Unknown,1181794257,671465440
+New Zealand,2017,19.62,Oceania,Unknown,383973984,75343576
+New Zealand,2018,79.37,Oceania,Unknown,1256721427,997448369
+New Zealand,2019,60.73,Oceania,Unknown,531794995,322948022
+New Zealand,2020,45.7,Oceania,Unknown,374468789,171132430
+New Zealand,2021,56.36,Oceania,Unknown,793709356,447370716
+New Zealand,2022,41.43,Oceania,Unknown,693394391,287306168
+New Zealand,2023,46.76,Oceania,Unknown,341970240,159906673
+UAE,2000,6.53,Asia,High income,1374176884,89708383
+UAE,2001,7.46,Asia,High income,1349805172,100646325
+UAE,2002,26.6,Asia,High income,657902795,175007805
+UAE,2003,12.17,Asia,High income,559631055,68089052
+UAE,2004,21.07,Asia,High income,897763001,189139548
+UAE,2005,28.41,Asia,High income,1488027812,422778930
+UAE,2006,13.14,Asia,High income,833956024,109589665
+UAE,2007,24.1,Asia,High income,1047644363,252457659
+UAE,2008,35.26,Asia,High income,145829987,51413952
+UAE,2009,16.98,Asia,High income,367296211,62361300
+UAE,2010,51.55,Asia,High income,1464179883,754843899
+UAE,2011,45.64,Asia,High income,1297740830,592229509
+UAE,2012,52.09,Asia,High income,1435275075,747601519
+UAE,2013,46.83,Asia,High income,936738003,438698835
+UAE,2014,28.11,Asia,High income,1268562746,356542966
+UAE,2015,35.48,Asia,High income,606588429,215246447
+UAE,2016,51.43,Asia,High income,840986571,432503613
+UAE,2017,34.82,Asia,High income,186183145,64826596
+UAE,2018,46.73,Asia,High income,434608100,203096010
+UAE,2019,42.32,Asia,High income,587096041,248474193
+UAE,2020,59.89,Asia,High income,876973880,525180629
+UAE,2021,60.53,Asia,High income,1467826556,888506052
+UAE,2022,52.84,Asia,High income,653216000,345141547
+UAE,2023,55.74,Asia,High income,43795285,24411323
