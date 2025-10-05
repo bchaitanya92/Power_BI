@@ -83,7 +83,7 @@ Power_BI/
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/bchaitanya92/Power_BI_Data_PreProcessing_File.git
+    git clone https://github.com/bchaitanya92/Power_BI.git
     cd Power_BI_Data_PreProcessing_File
     ```
 
