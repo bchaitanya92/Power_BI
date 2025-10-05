@@ -9,52 +9,67 @@
 
 <p align="center">
   <b>Python scripts for cleaning and preparing datasets for Power BI analytics and visualization.</b><br>
-  <i>Automate your data wrangling process for Amazon, Netflix, and global internet usage datasets.</i>
+  <i>Automate your data wrangling process for various datasets including Amazon, Netflix, and global internet usage.</i>
 </p>
 
 ---
 
 ## 📚 Project Overview
 
-This repository contains Python scripts and sample datasets designed to streamline the data preprocessing workflow for Power BI dashboards. The scripts focus on cleaning, transforming, and preparing raw CSV data from Amazon, Netflix, and global internet usage sources, making them ready for insightful analytics and visualization in Power BI or similar BI tools.
+This repository contains Python scripts and datasets designed to streamline the data preprocessing workflow for Power BI dashboards. The scripts focus on cleaning, transforming, and preparing raw CSV data from various sources, making them ready for insightful analytics and visualization in Power BI or similar BI tools.
 
 ---
 
 ## 🗂️ Folder Structure
 
 ```
-Power_BI_Data_PreProcessing_File/
+Power_BI/
 │
-├── a.py
-├── Cleaning_file.py
-├── Amazon.csv
-├── Netflix.csv
-├── global_internet_usage_2000_2023_50countries.csv
-├── cleaned_dataset_amazon.csv
-├── cleaned_dataset_netflix.csv
+├── Data_Cleaning_Files/
+│   ├── Cleaning_File_1.py
+│   └── Cleaning_File_Main.py
+├── Datasets/
+│   ├── Amazon.csv
+│   ├── Details.csv
+│   ├── Global_Internet_Usage_50_Countries.csv
+│   ├── Heart_Disease.csv
+│   ├── Kidney_Disease.csv
+│   ├── Netflix.csv
+│   └── Orders.csv
+├── Cleaned_Datasets/
+│   ├── Amazon.csv
+│   ├── Cleaned_Details.csv
+│   ├── Cleaned_Orders.csv
+│   ├── Global_Internet_Usage_50_Countries.csv
+│   ├── Kidney_Disease.csv
+│   └── Netflix.csv
+├── DashBoards/
+├── Backgrounds/
 └── README.md
 ```
 
-- **a.py**: Auxiliary or experimental script (purpose may vary).
-- **Cleaning_file.py**: Main script for cleaning and preprocessing the datasets.
-- **Amazon.csv**: Raw Amazon dataset (input).
-- **Netflix.csv**: Raw Netflix dataset (input).
-- **global_internet_usage_2000_2023_50countries.csv**: Raw global internet usage data (input).
-- **cleaned_dataset_amazon.csv**: Cleaned output for Amazon data.
-- **cleaned_dataset_netflix.csv**: Cleaned output for Netflix data.
+- **Data_Cleaning_Files/**: Contains Python scripts for data cleaning and preprocessing.
+  - **Cleaning_File_1.py**: Script for cleaning Netflix dataset and general purpose cleaning functions.
+  - **Cleaning_File_Main.py**: Main script for cleaning various datasets with improved performance.
+- **Datasets/**: Contains raw datasets in CSV format.
+- **Cleaned_Datasets/**: Contains cleaned/preprocessed datasets ready for Power BI visualization.
+- **DashBoards/**: Contains Power BI dashboard files.
+- **Backgrounds/**: Contains background images or resources.
 - **README.md**: Project documentation (this file).
 
 ---
 
 ## 📂 Datasets
 
-| **File**                                      | **Description**                                      |
-|-----------------------------------------------|------------------------------------------------------|
-| `Amazon.csv`                                 | Raw data from Amazon (e.g., sales, products, etc.)   |
-| `Netflix.csv`                                | Raw data from Netflix (e.g., titles, ratings, etc.)  |
-| `global_internet_usage_2000_2023_50countries.csv` | Internet usage stats by country (2000-2023)         |
-| `cleaned_dataset_amazon.csv`                  | Cleaned/preprocessed Amazon data (output)            |
-| `cleaned_dataset_netflix.csv`                 | Cleaned/preprocessed Netflix data (output)           |
+| **File** | **Description** |
+|----------|-----------------|
+| `Amazon.csv` | Raw data from Amazon (e.g., sales, products, etc.) |
+| `Details.csv` | Detailed information dataset |
+| `Global_Internet_Usage_50_Countries.csv` | Internet usage stats by country |
+| `Heart_Disease.csv` | Medical dataset related to heart disease |
+| `Kidney_Disease.csv` | Medical dataset related to kidney disease |
+| `Netflix.csv` | Raw data from Netflix (e.g., titles, ratings, etc.) |
+| `Orders.csv` | Order information dataset |
 
 ---
 
@@ -95,11 +110,17 @@ Power_BI_Data_PreProcessing_File/
 To clean and preprocess the datasets, run the main script:
 
 ```sh
-python Cleaning_file.py
+python Data_Cleaning_Files/Cleaning_File_Main.py
 ```
 
-- The script will read the raw CSV files, perform cleaning operations, and output the cleaned datasets as new CSV files in the same directory.
-- You can modify `Cleaning_file.py` to adjust the cleaning logic as needed for your specific data or analysis requirements.
+Or for specific dataset cleaning:
+
+```sh
+python Data_Cleaning_Files/Cleaning_File_1.py
+```
+
+- The scripts will read the raw CSV files from the [Datasets](Datasets/) folder, perform cleaning operations, and output the cleaned datasets to the [Cleaned_Datasets](Cleaned_Datasets/) folder.
+- You can modify the scripts to adjust the cleaning logic as needed for your specific data or analysis requirements.
 
 ---
 
